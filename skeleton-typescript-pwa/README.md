@@ -1,5 +1,15 @@
 # aurelia-skeleton-navigation (typescript)
 
+## Building The App For Progressive Web application (PWA)
+
+1. These are the added task for building PWA
+
+  ```shell
+  gulp serve-export-sw
+  gulp export-sw
+  gulp build-sw
+  ```
+
 ## Running The App
 
 To run the app, follow these steps.
